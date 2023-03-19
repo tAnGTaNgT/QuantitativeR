@@ -1,1 +1,1 @@
-# QuantitativeR This is a line from RStudio
+# QuantitativeR This is a line from RStudio second edition
